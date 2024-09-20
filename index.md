@@ -2,17 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# Connaissez vous Antoine Griezmann ?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Antoine Griezmann, né à Mâcon en 1991, est un footballeur à la trajectoire singulière. Petit par la taille mais grand par le talent, il a quitté la France très jeune pour rejoindre la Real Sociedad en Espagne, où il a fait ses premières armes. Rapidement repéré pour sa finesse technique et son flair offensif, il devient une star à l’Atlético Madrid, club avec lequel il connaît ses plus grands succès. Après un passage au FC Barcelone, il revient à l’Atlético, son club de cœur. Avec les Bleus, Griezmann a marqué l’histoire en remportant la Coupe du Monde 2018, tout en se distinguant par son style de jeu unique et son éternel sourire.
+
+! [Antoine Griezmann](./assets/img/ag7.jpg)
 
 ## Header 2
 
