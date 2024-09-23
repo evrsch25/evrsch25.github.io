@@ -10,116 +10,47 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Connaissez vous Antoine Griezmann ?
+# Qu'est ce qu'une climatisation ?
 
-Antoine Griezmann, né à Mâcon en 1991, est un footballeur à la trajectoire singulière. Petit par la taille mais grand par le talent, il a quitté la France très jeune pour rejoindre la Real Sociedad en Espagne, où il a fait ses premières armes. Rapidement repéré pour sa finesse technique et son flair offensif, il devient une star à l’Atlético Madrid, club avec lequel il connaît ses plus grands succès. Après un passage au FC Barcelone, il revient à l’Atlético, son club de cœur. Avec les Bleus, Griezmann a marqué l’histoire en remportant la Coupe du Monde 2018, tout en se distinguant par son style de jeu unique et son éternel sourire.
+Une climatisation sert à rafraîchir l'air ambiant d'une pièce. Elle permet de réguler la température et l'humidité de l'air. Elle peut être utilisée pour refroidir une pièce en été ou pour chauffer une pièce en hiver. Elle peut également être utilisée pour purifier l'air en filtrant les particules de poussière, de pollen et de pollution.
 
-![Antoine Griezmann](./assets/img/ag7.jpg)
+![Climatisation](./assets/img/climatisations.jpeg)
 
-## Header 2
+## Maintenant, qu'est-ce qu'est VRAIMENT une climatisation ?
 
-> This is a blockquote following a header.
+<!-- > This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> When something is important enough, you do it even if the odds are not in your favor. -->
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+L'art de la climatisation prend un tout autre tournant et une tout autre signification lorsqu'il s'agit du monde du sport. En effet, se faire "climatiser" revient à se faire refroidir par un adversaire, que ça soit par son niveau de jeu ou par son attitude. 
 
 
-### Definition lists can be used with HTML syntax.
+### Mettons nous en situation.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Voici une clim qui fait mal, très mal.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+![eder](./assets/img/eder.jpg)
 
-```
-The final element.
-```
+Eder est un joueur de football portugais qui a marqué le but de la victoire lors de la finale de l'Euro 2016. Il a marqué ce but à la 109ème minute de jeu, en prolongation, face à la France. 
+
+
+### Et voici une clim qui fait un peu plus beaucoup moins mal.
+
+> Le 22 Septembre 2024, l'Olympique Lyonnais reçoit l'Olympique de Marseille pour le compte du premier Olympico de la saison. Lyon est à domicile et Marseille écope d'un carton rouge pour Leonardo Balerdi dès la 5ème minute de jeu. Les marseillais doivent donc jouer le match complet à 10 contre 11 et réussissent à tenir le score jusqu'à la 53ème minute.
+
+> C'est à ce moment là que le climatiseur s'est mis en route. L'Om revient au score 10 minutes plus tard, toujours à 10 contre 11. Les lyonnais sont dépassés et encaissent un deuxième but à la 82ème minute. Lyon revient au score à la 93ème minute et pense s'en sortir sur ce match nul.
+
+![lacazettecontent](./assets/img/lacazette1.jpeg)
+
+> Sur un contre à la 95ème minute de jeu, Jonhatan Rowe fait s'imposer l'OM sur le score de 3-2. Les lyonnais sont abattus et les marseillais exultent.
+
+![lacazettetriste](./assets/img/lacazette.jpeg)
+
+Afin de conclure la clim dans les règles de l'art, merci de bien vouloir applaudir Neal Maupay pour la plus grosse photo clim de l'année 2024 :
+
+![maupay](./assets/img/maupay.jpeg)
+
+
+### Conclusion
+
+La climatisation est un art qui peut être utilisé dans de nombreux domaines. Mais s'il vous plaît, ne croyez pas avoir gagné avant la fin du match.
