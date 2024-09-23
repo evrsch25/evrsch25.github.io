@@ -2,14 +2,6 @@
 layout: default
 ---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-
 # Qu'est ce qu'une climatisation ?
 
 Une climatisation sert à rafraîchir l'air ambiant d'une pièce. Elle permet de réguler la température et l'humidité de l'air. Elle peut être utilisée pour refroidir une pièce en été ou pour chauffer une pièce en hiver. Elle peut également être utilisée pour purifier l'air en filtrant les particules de poussière, de pollen et de pollution.
@@ -18,11 +10,7 @@ Une climatisation sert à rafraîchir l'air ambiant d'une pièce. Elle permet de
 
 ## Maintenant, qu'est-ce qu'est VRAIMENT une climatisation ?
 
-<!-- > This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor. -->
-
-L'art de la climatisation prend un tout autre tournant et une tout autre signification lorsqu'il s'agit du monde du sport. En effet, se faire "climatiser" revient à se faire refroidir par un adversaire, que ça soit par son niveau de jeu ou par son attitude. 
+L'art de la climatisation prend un tout autre tournant et une tout autre signification lorsqu'il s'agit du monde du **sport**. En effet, se faire _climatiser_ revient à se faire refroidir par un adversaire, que ça soit par son **niveau de jeu** ou par son **attitude**. 
 
 
 ### Mettons nous en situation.
