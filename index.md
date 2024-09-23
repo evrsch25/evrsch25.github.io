@@ -42,3 +42,5 @@ Afin de conclure la clim dans les règles de l'art, merci de bien vouloir applau
 ### Conclusion
 
 La climatisation est un art qui peut être utilisé dans de nombreux domaines. Mais s'il vous plaît, ne croyez pas avoir gagné avant la fin du match.
+
+Pour voir d'autre clims incroyables : [climatisation](./climatisation.md)
